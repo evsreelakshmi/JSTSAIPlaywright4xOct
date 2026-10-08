@@ -149,7 +149,7 @@ Keywords are defined by the programming language, not by the programmer.
 
 Some reserved words have restrictions depending on the context in which they are used.
 ---
-# 6. Identifiers
+# Identifiers
 
 An **identifier** is a name given by the programmer to identify a program element.
 
@@ -182,7 +182,7 @@ userName  → Identifier
 let let = 10;
 
 let is already a keyword, so it cannot be used as an ordinary variable name.
-# 7. Why Do We Need Identifiers?
+#  Why Do We Need Identifiers?
 
 Identifiers allow us to refer to data and program elements later.
 
@@ -207,7 +207,7 @@ it uses the identifier `age` to access the value `20`.
 
 ---
 
-# 8. Rules for Identifiers
+#  Rules for Identifiers
 
 Can start with a letter
 
